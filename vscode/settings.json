@@ -1,0 +1,9 @@
+{
+		"workbench.colorTheme": "United Ubuntu",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
+    "workbench.editor.enablePreview": false
+}
